@@ -1,6 +1,6 @@
 # Google Play Store App Analysis
 
-![Play Store](playstore.jpg)
+![Play Store](1587981995_google_play_store_3.jpg)
 
 ## Problem Statement
 
@@ -143,5 +143,5 @@ This SQL and Power BI-driven analysis provides a data-backed view of the Google 
 
 I am **Temiloluwa Adaramola**, a data analyst passionate about solving real-world problems using data. This project showcases my ability to combine SQL and Power BI for end-to-end data analysis.
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourname)
+📧 Email: [oluwaseyitadaramola@gmail.com](mailto:oluwaseyitadaramola@gmail.com)
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/oluwaseyiadaramola/)
